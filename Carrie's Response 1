@@ -1,0 +1,14 @@
+Something that might be good for those of us who are not very hardware focused might be a crash course in what's out there and what it's good for.
+Some examples:
+What the heck is a fpga? Who needs it and what's it good for? Should I get one for my (domain) project?
+What do gpus excel at? What are their limitations?
+What is shared memory? How should I advise users?
+Is it better to submit hundreds or single core jobs in an array or one large job with lots of & and waits?
+What effects do different file systems have on how you should think about/handle data?
+What should be stored on tape?
+How do I acquire and decipher a LAN/WAN diagram in order to best handle data transfer?
+(I kinda want to know the answers to some of these too, from others' experience).
+
+Another topic: How to gracefully eat crow when you've let a user down?
+
+-Carrie
